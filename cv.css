@@ -1,0 +1,207 @@
+  *{ 
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 10px;
+    font-family: 100% Arial, FreeSans, sans-serif;
+} 
+
+
+.accueil > img { 
+    margin-top: 300px;
+    margin-left: 270px;
+    position: absolute;
+ 
+    
+}
+p {
+ margin-top: 660px;  
+ margin-left: 650px; 
+ position: relative;
+ font-size: 20px;
+
+}
+
+#presentation > img {
+    width: 400px;
+    height: 400px;
+    margin-top: 350px;
+    margin-left: 200px;
+    position: absolute;
+}
+
+.orientation {
+    margin-top: 450px;
+    margin-right: 200px;
+    margin-left: 700px;
+    font-size: 24px;
+    color: #D8297B;
+}
+
+.qualiter {
+   margin-left: 250px;
+   margin-top: 220px;
+   font-size: 24px;  
+   margin-bottom: -100px;
+   color: #D8297B;
+}
+
+.qualiter > img {
+    width: 24px;
+    height: 24px;
+    margin-left: -55px;
+    margin-right: -55px;
+}
+#competences > h1 {
+   text-align: center;
+   margin-top: 200px;
+   font-size: 40px;
+   color: white;
+}
+#langages {
+    margin-top: 200px;
+}
+.html > img {
+    width: 200px;
+    height: 200px;
+} 
+.css > img {
+    width: 200px;
+    height: 200px;
+} 
+.js > img {
+    width: 200px;
+    height: 200px;
+} 
+.php > img {
+    width: 200px;
+    height: 200px;
+}
+.github > img {
+    width: 250px;
+    height: 150px;
+} 
+.git > img {
+    width: 250px;
+    height: 150px;
+} 
+.poo > img {
+    width: 200px;
+    height: 200px;
+} 
+.wordpress > img {
+    width: 200px;
+    height: 200px;
+} 
+.react > img {
+    width: 250px;
+    height: 150px;
+} 
+.boostrap > img {
+    width: 250px;
+    height: 150px;
+} 
+#realisations {
+    border: 2px solid;
+    margin: 250px;
+    margin-left: 400px;
+    margin-right: 400px;
+    margin-top: 150px;
+    box-shadow: 5px 10px 10px gray;
+}
+#portfolio > h2 {
+    font-size: 40px;
+    text-align: center;
+    margin-top: 200px;
+    color: #D8297B;
+}
+#realisations > h3 {
+    margin-top: 50px;
+    margin-left: 150px;
+    font-size: 30px;
+    
+}
+ul > li {
+    margin-left: 250px;
+    margin-bottom: 50px;
+    font-size: 25px;
+}
+#button1 {
+    margin-left: 100px;
+    margin-top: -200px;
+    margin-bottom: -40px;
+}
+#button2 {
+    margin-left: 100px;
+    margin-top: -200px;
+    margin-bottom: -40px;
+}
+#button3 {
+    margin-left: 100px;
+    margin-top: -200px;
+    margin-bottom: -40px;
+}
+ul  {
+    display: block;
+    margin-left: 50px;
+    padding-top: 60px;
+}
+#contact {
+    font-size: 25px;
+    margin-left: 450px;
+    border-radius: 25px;
+    border: 6px solid  #eaeaea;
+    margin-right: 500px;
+    margin-top: 150px;
+}
+.titre > h4 {
+    font-size: 40px;
+    text-align: center;
+    margin-top: 250px;
+    color: white;
+   
+}
+.formulaire {
+    margin-top: 90px;
+    margin-left: 150px;
+    color: white;
+}
+input {
+    margin-bottom: 80px;
+    margin-left: 30px;
+  
+}
+textarea {
+    min-width: 200px;
+    min-height: 150px;
+    max-width: 400px;
+    max-height: 300px;
+    display: block;
+    margin-top: 60px;
+    margin-bottom: 60px;
+}
+.envoyer {
+    margin-left: 300px;
+    
+}
+#fond-ecran1 {
+    background-color: #D8297B;
+    padding-bottom: 800px;
+}
+.fond-ecran2 {
+    background-color: #eaeaea;
+    padding-bottom: 400px;
+}
+.fond-ecran3 {
+    background-color: #D8297B;
+    padding-bottom: 300px;
+    
+}
+.fond-ecran4 {
+    background-color: #eaeaea;
+    padding-bottom: 20px;  
+}
+.fond-ecran5 {
+    background-color: #D8297B;
+    padding-bottom: 400px;
+    
+}
